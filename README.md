@@ -38,7 +38,7 @@
 
 ## Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-june.robertchan%40gmail.com-red?style=flat-square&logo=gmail)](mailto:june.robertchan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-channyein.myr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:channyein.myr@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@RobertC07652133-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/RobertC07652133)
 [![Facebook](https://img.shields.io/badge/Facebook-chan.nyeinkyaw.10-1877F2?style=flat-square&logo=facebook)](https://facebook.com/chan.nyeinkyaw.10)
 [![Instagram](https://img.shields.io/badge/Instagram-chan.nyein.kyaw-E4405F?style=flat-square&logo=instagram)](https://instagram.com/chan.nyein.kyaw)
