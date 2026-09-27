@@ -1,45 +1,60 @@
-# Hi there, I'm Chan Nyein Kyaw
+# Chan Nyein Kyaw
 
-**Lead Full-Stack Developer** | Bangkok, Thailand
+**Solution Architect** · Bangkok, Thailand  
+15+ years designing backend systems, web platforms, and the engineering teams that run them, across fintech, insurance, e-commerce, and logistics.
 
-16+ years of comprehensive expertise in the full software development lifecycle, committed to delivering high-quality solutions and fostering collaborative team environments.
+---
 
-## About Me
+## 🛠 Tech Stack
 
-- Currently working as **Lead Full-Stack Developer** at TECHNICRON
-- Directing development teams in designing web applications and implementing agile methodologies
-- Passionate about building scalable, secure, and efficient software solutions
+**Backend**
+`C#` `.NET / ASP.NET Core` `Node.js` `NestJS` `REST APIs` `Microservices`
 
-## Tech Stack
+**Frontend**
+`React` `Next.js` `React Native` `TypeScript` `Micro-frontends`
 
-**Languages:** C#, Python, JavaScript
-**Backend:** ASP.NET, Node.js, SQL, NoSQL
-**Frontend:** React, React Native
-**DevOps & Cloud:** Docker, CI/CD, Azure, AWS, GCP
-**Tools:** Git
+**Databases**
+`SQL Server` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Elasticsearch`
 
-## Professional Experience
+**Cloud & DevOps**
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `GitLab CI/CD` `GitHub Actions`
 
-| Role                      | Company                 | Period       |
-| ------------------------- | ----------------------- | ------------ |
-| Lead Full-Stack Developer | TECHNICRON              | 2024–Present |
-| Technical Lead            | RingZero IT Services    | 2023–2024    |
-| Systems Analyst Lead      | Dai-ichi Life Insurance | 2022–2023    |
-| IT Superintendent         | HUTCHISON PORTS         | 2016–2021    |
+**Messaging**
+`RabbitMQ` `Event-driven architecture`
 
-## Certifications
+---
 
-- Project Management Professional (PMP)
-- Microsoft Certified Technology Specialist (MCTS)
+## 🏗 What I Build
 
-## Education
+- **Recruitment platforms** — NestJS · React Native · PostgreSQL · RabbitMQ · GCP
+- **E-commerce systems** — Microservices · Docker · Kubernetes · AWS
+- **Digital wallet & fintech** — Secure payment APIs · MongoDB · ELK · Redis
+- **Insurance & banking systems** — .NET 6 · SQL Server · Azure · Crystal Reports
+- **Port & logistics ops** — ASP.NET MVC · Oracle · SQL Server · on-premise infra
 
-**Bachelor of Computer Science** – University of Computer Studies, Yangon, Myanmar (2007)
+---
 
-## Connect with Me
+## 📌 Currently
 
-[![Email](https://img.shields.io/badge/Email-channyein.myr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:channyein.myr@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@RobertC07652133-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/RobertC07652133)
-[![Facebook](https://img.shields.io/badge/Facebook-chan.nyeinkyaw.10-1877F2?style=flat-square&logo=facebook)](https://facebook.com/chan.nyeinkyaw.10)
-[![Instagram](https://img.shields.io/badge/Instagram-chan.nyein.kyaw-E4405F?style=flat-square&logo=instagram)](https://instagram.com/chan.nyein.kyaw)
-[![Portfolio](https://img.shields.io/badge/Portfolio-channyeinkyaw.dev-000000?style=flat-square&logo=vercel)](https://channyeinkyaw.dev)
+- 🔭 Solution Architect at **TECHNICRON** — architecting a recruitment platform
+- 🌱 Exploring: system design patterns, cloud-native architecture
+- 💬 Ask me about: solution architecture, .NET, NestJS, SQL performance, team leadership
+
+---
+
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-channyeinkyaw-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/channyeinkyaw)
+[![Portfolio](https://img.shields.io/badge/Portfolio-channyeinkyaw.dev-0B1530?style=flat-square&logo=vercel)](https://channyeinkyaw.dev)
+[![Email](https://img.shields.io/badge/Email-channyein.myr@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:channyein.myr@gmail.com)
+
+---
+
+## 🏅 Certifications
+
+- **PMP** – Project Management Professional
+- **MCTS** – Microsoft Certified Technology Specialist
+
+---
+
+_Open to solution architect and technical leadership opportunities._
